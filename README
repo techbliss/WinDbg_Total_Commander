@@ -1,0 +1,7 @@
+This App is for making use off all windbg commands in Ida Pro
+
+Some Commands are pretty Low Level.
+Commands referense are from here http://windbg.info/doc/1-common-cmds.html
+
+You need PyQt4 build for IDA and Qscilla
+
