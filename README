@@ -5,3 +5,4 @@ Commands referense are from here http://windbg.info/doc/1-common-cmds.html
 
 You need PyQt4 build for IDA and Qscilla
 
+It works but it aint finished.
